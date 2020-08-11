@@ -1,0 +1,12 @@
+{
+  "name": "qs-item-manager",
+  "version": "1.0.0",
+  "description": "Variable & Master Item Manager for Qliksense",
+  "main": "src/dv-item-manager.js",
+  "scripts": {
+    "start": "babel src --out-dir dist/dv-item-manager/ --copy-files"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
