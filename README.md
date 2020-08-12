@@ -7,7 +7,7 @@
  * Bulk delete
  * Bulk modify
  * Bulk copy
- * Degug properties to console
+ * Print properties to console
  
  _Note for changes to persist you should save the qliksense app after making changes._
  
@@ -36,5 +36,5 @@
  ![](https://github.com/dvxn/qs-item-manager/blob/master/demo/example_copy.gif)
  ![](https://github.com/dvxn/qs-item-manager/blob/master/demo/example_copy2.gif)
  
-  #### Debug properties to console
+  #### Print properties to console
  ![](https://github.com/dvxn/qs-item-manager/blob/master/demo/example_debug.gif)
