@@ -1,6 +1,6 @@
 {
-	"name": "Variable Manager",
-	"description": "Variable  & Master Item Manager",
+	"name": "Item Manager",
+	"description": "Master Item/Variable Manager",
 	"icon": "extension",
 	"preview" : "preview.png",
 	"type": "visualization",
